@@ -1,12 +1,14 @@
-# Hi, I’m Nitali 🌟  
+# Hi, I’m Nitali  
 
-I believe technology has the power to give people more time with the ones they love — by making healthcare smarter, faster, and more human.
+I'm currently a Master's Student studying Computer Engineering at Columbia University.
+
+<!-- I believe technology has the power to give people more time with the ones they love — by bettering medical devices.
 
 My work sits at the intersection of **computer engineering**, **medicine**, and **business**, where I focus on designing electrical systems that advance medical treatments and improve patient outcomes.
-
+ 
 On this GitHub, I share projects that reflect my technical curiosity — from **system-on-chip and embedded design** to **data-driven applications**. Some of my work remains under wraps as I explore broader health-tech innovation.
 
-🧠 **What inspires me:**  
+🧠 **What excites me:**  
 - Digital and embedded systems  
 - Healthcare innovation and accessibility  
 - Translating technical ideas into meaningful solutions  
@@ -18,7 +20,7 @@ On this GitHub, I share projects that reflect my technical curiosity — from **
 - Medical Device Repair Technician  
 - VP, Engineering World Health - University of Minnesota Chapter
 
-<!-- I love building reliable systems — in both devices and organizations — that recover quickly, so people can recover quickly too and get back to making more happy memories. -->
+- I love building reliable systems — in both devices and organizations — that recover quickly, so people can recover quickly too and get back to making more happy memories. 
 I love building systems that don’t just work — they hold steady in critical moments. Whether in software or in healthcare, reliability in emergencies can make all the difference for someone’s tomorrow. That’s why I keep learning, exploring, and pushing myself to create meaningful solutions across technology and healthcare.
 
 > “You say ‘amateur’ as if it was a dirty word. ‘Amateur’ comes from the Latin word ‘amare’, which means to love. To do things for the love of it.”  
@@ -28,7 +30,6 @@ I love building systems that don’t just work — they hold steady in critical 
 
 
 
-<!--
 My dream: Run my own medical device company. Serve engineers, clinicians, patients, regulatory, sales, HR, and many more folks to help improve people's health!
 
 My background: Previously planning on attend medical school, when the pandemic hit I decided to take a job after graduating with a degree in human physiology & computer science. Worked at Medtronic for 3 years and see the impact of electrical & software engineering in improving patients lives.
